@@ -1,4 +1,4 @@
-# shop_frontend
+# Application E-Commerce
 
 A new Flutter project.
 
